@@ -1,5 +1,5 @@
 
-<img src="https://github.com/nunesrodrigodev/presentation/blob/master/Marketing%20Business%20Corporate%20Start-up%20Facebook%20Cover.png">
+<img src="Black and Yellow Edgy Maximalism Fitness Collection YouTube Channel Art.png">
 
 
 
