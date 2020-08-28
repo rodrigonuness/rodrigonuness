@@ -17,7 +17,7 @@
               - React Native  
           - html & css 
       - ElectronJS 
-  - jQuery
+  - Python 
 
 ### I love ❤️
 - programing 💻
