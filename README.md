@@ -6,7 +6,7 @@
 ### Hi, I'm Rodrigo Nunes!  💜
 
 ⚡ My GitHub [github](https://github.com/rodrigonuness) <br>
-💣 My site [rodrigoonuness](https://rodrigoonunes.github.io/) <br>
+💣 My site [rodrigonuness](https://rodrigoonunes.github.io/) <br>
 🇧🇷 Born in Brasília, Brazil <br>
 🇧🇷 Living in Recife, Brasil
 
