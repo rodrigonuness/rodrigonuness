@@ -1,6 +1,3 @@
-# http://rodrigonuness.github.io/index.html
-
-
 
 <img src="https://github.com/nunesrodrigodev/presentation/blob/master/Marketing%20Business%20Corporate%20Start-up%20Facebook%20Cover.png">
 
