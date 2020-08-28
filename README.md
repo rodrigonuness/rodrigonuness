@@ -1,8 +1,4 @@
 
-<img src="Black and Yellow Edgy Maximalism Fitness Collection YouTube Channel Art.png">
-
-
-
 ### Hi, I'm Rodrigo Nunes!  💜
 
 ⚡ My GitHub [rodrigonuness](https://github.com/rodrigonuness) <br>
