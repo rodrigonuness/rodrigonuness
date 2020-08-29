@@ -1,3 +1,4 @@
+![alt text](https://github.com/rodrigonuness/rodrigonuness/blob/master/Black%20and%20Yellow%20Edgy.png)
 
 ### Hi, I'm Rodrigo Nunes!  💜
 
