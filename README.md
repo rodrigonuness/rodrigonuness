@@ -8,7 +8,7 @@
 🇧🇷 Living in Recife, Brasil
 
 ### 🚀 My stacks 💙
-  - NodeJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Node.png" width="26">
+  - NodeJS <img src="https://nodejs.org/static/images/favicons/favicon.ico" width="16">
       - ReactJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="16">
           - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="16">
               - React Native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="16">
