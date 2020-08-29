@@ -8,11 +8,11 @@
 🇧🇷 Living in Recife, Brasil
 
 ### 🚀 My stacks 💙
-  - NodeJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Node.png" width="16">
+  - NodeJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Node.png" width="26">
       - ReactJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="16">
           - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="16">
               - React Native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="16">
-          - html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="16">
+          - html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="26">
       - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="16">
   - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="16">
 
