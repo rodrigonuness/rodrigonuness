@@ -14,7 +14,7 @@
               - React Native  
           - html & css 
       - ElectronJS 
-  - Python 
+  - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="8">
 
 ### I love ❤️
 - programing 💻
