@@ -21,3 +21,10 @@
 - javascript 💛
 - coffe ☕
 - music 🎶
+
+
+<style>
+  body{
+    background-color: rgba(23,23,23,1);
+  }
+</style>
