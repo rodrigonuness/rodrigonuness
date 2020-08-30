@@ -1,3 +1,4 @@
+<body style="background-color: red;">
 ![alt text](https://github.com/rodrigonuness/rodrigonuness/blob/master/image.png)
 
 ### Hi, I'm Rodrigo Nunes!  💜
@@ -21,10 +22,4 @@
 - javascript 💛
 - coffe ☕
 - music 🎶
-
-
-<style>
-  body{
-    background-color: rgba(23,23,23,1);
-  }
-</style>
+</body>
