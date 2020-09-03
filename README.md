@@ -4,7 +4,7 @@
 ### Hi, I'm Rodrigo Nunes!  💜
 
 ⚡ My GitHub [rodrigonuness](https://github.com/rodrigonuness) <br>
-💣 My site [rodrigonuness](https://rodrigonuness.github.io/index.html) <br>
+🔥 My site [rodrigonuness](https://rodrigonuness.github.io/index.html) <br>
 🇧🇷 Born in Brasília, Brazil <br>
 🇧🇷 Living in Recife, Brasil
 
