@@ -15,9 +15,9 @@
               - React Native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="18vw">
           - Html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="24vw">
       - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="18vw">
-  - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="18vw">
+    - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="18vw">
+ - Socket.io <img src="https://github.com/rodrigonuness/language_pictures/blob/master/socket.io.png" width="18vw">
 
-- Lerning Socket.io <img src="https://github.com/rodrigonuness/language_pictures/blob/master/socket.io.png" width="18vw">
 ### I love ❤️
 - programing 💻
 - javascript 💛
