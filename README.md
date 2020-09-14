@@ -12,10 +12,10 @@
   - NodeJS <img src="https://nodejs.org/static/images/favicons/favicon.ico" width="18vw">
       - ReactJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="18vw">
           - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="18vw">
-              - Html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="24vw">
+              - React native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="24vw">
           - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="18vw">
-      - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="18vw">
-  - Socket.io <img src="https://github.com/rodrigonuness/language_pictures/blob/master/socket.io.png" width="18vw">
+      - Html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="24vw">
+  - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="18vw">
 
 ### I love ❤️
 - programing 💻
