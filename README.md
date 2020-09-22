@@ -5,7 +5,7 @@
 
 ⚡ My GitHub [rodrigonuness](https://github.com/rodrigonuness) <br>
 🔥 My site [rodrigonuness](https://rodrigonuness.github.io/index.html) <br>
-🇧🇷 Born in Brasília, Brazil <br>
+🇧🇷 Born in Brasilia, Brazil <br>
 🇧🇷 Living in Recife, Brasil
 
 ### 🚀 My stacks 💙
