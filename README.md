@@ -14,7 +14,7 @@
           - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="18vw">
           - React native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="24vw">
       - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="22vw">
-  - Html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="48vw">
+  - Html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="44vw">
 
 ### I love ❤️
 - programing 💻
