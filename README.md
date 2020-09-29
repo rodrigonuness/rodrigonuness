@@ -10,7 +10,7 @@
 
 ### 🚀 My stacks 💙
   - NodeJS <img src="https://nodejs.org/static/images/favicons/favicon.ico" width="18vw">
-      - ReactJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="18vw">
+      - ReactJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="24vw">
           - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="18vw">
           - React native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="24vw">
       - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="22vw">
