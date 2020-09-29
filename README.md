@@ -13,7 +13,7 @@
       - ReactJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="18vw">
           - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="18vw">
           - React native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="24vw">
-      - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="18vw">
+      - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="22vw">
   - Html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="24vw">
 
 ### I love ❤️
