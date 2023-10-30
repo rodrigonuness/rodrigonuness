@@ -12,7 +12,7 @@
 
   - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="18vw">
   - Html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="37vw">
-  - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="37vw">
+  - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="18vw">
 
 ### I love ❤️
 - programing 💻
