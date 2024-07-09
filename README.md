@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Rodrigo Nunes, and I'm a junior developer from Brazil.<br>I have been programming since 2020 and entered the workforce in 2024. I am currently studying Computer Science at Cesar School, in my third semester.</p>
+<p align="left">My name is Rodrigo Nunes, and I'm an intern developer from Brazil.<br>I have been programming since 2020 and entered the workforce in 2024. I am currently studying Computer Science at Cesar School, in my third semester.</p>
 
 ###
 
